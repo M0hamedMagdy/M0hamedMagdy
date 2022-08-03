@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M0hamedMagdy
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Firebase
-- 💞️ I’m looking to collaborate on React Projectts 
+- 💞️ I’m looking to collaborate on React Projects 
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/m0hamedmagdy/) or [Twitter](https://twitter.com/imohameds2)
  
 
