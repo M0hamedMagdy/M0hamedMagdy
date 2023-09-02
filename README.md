@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning algorithms and data structures
 - 💞️ I’m looking to collaborate on React Projects 
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/m0hamedmagdy/) or [Twitter](https://twitter.com/imohameds2)
- 
+
+
+ ![Anurag's GitHub stats](https://github-readme-stats-ten-swart-81.vercel.app/api?username=M0hamedMagdy&show_icons=true&theme=radical)
 
 
 <!---
